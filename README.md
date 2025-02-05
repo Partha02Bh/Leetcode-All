@@ -63,4 +63,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0210-course-schedule-ii) |
+## Hash Table
+|  |
+| ------- |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+## String
+|  |
+| ------- |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+## Counting
+|  |
+| ------- |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 <!---LeetCode Topics End-->
