@@ -1,19 +1,25 @@
 class Solution {
     public int maximumSum(int[] nums) {
-        int[] max = new int[82];
-        int ans = -1;
-        for (int x : nums) {
-            int sum = 0;
-            int temp = x;
-            while (temp != 0) {
-                sum += temp % 10;
-                temp /= 10;
+        Map<Integer, Integer> maxMap = new HashMap<>();
+        int maxSum = -1;
+
+        for (int num : nums) {
+            int digitSum = getDigitSum(num);
+            if (maxMap.containsKey(digitSum)) {
+                maxSum = Math.max(maxSum, maxMap.get(digitSum) + num);
+                maxMap.put(digitSum, Math.max(maxMap.get(digitSum), num));
+            } else {
+                maxMap.put(digitSum, num);
             }
-            if (max[sum] != 0) {
-                ans = Math.max(ans, x + max[sum]);
-            }
-            max[sum] = Math.max(max[sum], x);
         }
-        return ans;
+        return maxSum;
+    }
+    public  int getDigitSum(int num) {
+        int sum = 0;
+        while (num > 0) {
+            sum += num % 10;
+            num /= 10;
+        }
+        return sum;
     }
 }
