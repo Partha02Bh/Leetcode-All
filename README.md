@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0070-climbing-stairs) |
 | [0542-01-matrix](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0542-01-matrix) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0070-climbing-stairs) |
 | [2448-count-number-of-bad-pairs](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/2448-count-number-of-bad-pairs) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Stack
@@ -170,4 +172,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/2456-construct-smallest-number-from-di-string) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
