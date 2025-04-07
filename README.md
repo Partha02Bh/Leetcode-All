@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0073-set-matrix-zeroes) |
 | [0120-triangle](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0130-surrounded-regions) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0073-set-matrix-zeroes) |
 | [0130-surrounded-regions](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0733-flood-fill) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0073-set-matrix-zeroes) |
 | [0768-partition-labels](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0768-partition-labels) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
