@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0073-set-matrix-zeroes) |
+| [0118-pascals-triangle](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0130-surrounded-regions) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0115-distinct-subsequences) |
+| [0118-pascals-triangle](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0198-house-robber) |
