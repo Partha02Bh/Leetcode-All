@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0130-surrounded-regions) |
 | [0198-house-robber](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0213-house-robber-ii) |
+| [0287-find-the-duplicate-number](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0416-partition-equal-subset-sum) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0287-find-the-duplicate-number) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1753-path-with-minimum-effort](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/1753-path-with-minimum-effort) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0455-assign-cookies) |
 | [0768-partition-labels](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0768-partition-labels) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -341,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0287-find-the-duplicate-number) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Combinatorics
