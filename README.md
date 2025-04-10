@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0070-climbing-stairs) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0070-climbing-stairs) |
 | [0368-largest-divisible-subset](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0368-largest-divisible-subset) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -353,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0062-unique-paths) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Enumeration
 |  |
