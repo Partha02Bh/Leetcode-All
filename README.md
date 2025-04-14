@@ -261,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0062-unique-paths) |
@@ -378,12 +379,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0206-reverse-linked-list) |
 | [2050-count-good-numbers](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/2050-count-good-numbers) |
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0206-reverse-linked-list](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0908-middle-of-the-linked-list) |
