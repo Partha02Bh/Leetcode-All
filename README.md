@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0038-count-and-say](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0038-count-and-say) |
 | [0072-edit-distance](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0115-distinct-subsequences) |
 | [0516-longest-palindromic-subsequence](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0516-longest-palindromic-subsequence) |
