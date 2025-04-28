@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0455-assign-cookies) |
+| [0485-max-consecutive-ones](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0485-max-consecutive-ones) |
 | [0518-coin-change-ii](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0733-flood-fill) |
