@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0039-combination-sum](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0053-maximum-subarray) |
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0040-combination-sum-ii) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2107-find-unique-binary-string](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/2107-find-unique-binary-string) |
