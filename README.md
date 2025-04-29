@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0322-coin-change) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0038-count-and-say) |
 | [0072-edit-distance](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0115-distinct-subsequences) |
+| [0131-palindrome-partitioning](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0131-palindrome-partitioning) |
 | [0516-longest-palindromic-subsequence](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0583-delete-operation-for-two-strings) |
 | [0768-partition-labels](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0768-partition-labels) |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0040-combination-sum-ii) |
+| [0131-palindrome-partitioning](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0131-palindrome-partitioning) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2107-find-unique-binary-string](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/2107-find-unique-binary-string) |
