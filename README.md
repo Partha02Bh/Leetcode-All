@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0075-sort-colors) |
 | [0368-largest-divisible-subset](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0368-largest-divisible-subset) |
 | [0455-assign-cookies](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0455-assign-cookies) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -431,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0160-intersection-of-two-linked-lists) |
 | [0287-find-the-duplicate-number](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0287-find-the-duplicate-number) |
