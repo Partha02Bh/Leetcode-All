@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3639-zero-array-transformation-i](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/3643-zero-array-transformation-ii) |
+| [3647-zero-array-transformation-iii](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/3647-zero-array-transformation-iii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2681-put-marbles-in-bags](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/2681-put-marbles-in-bags) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3647-zero-array-transformation-iii](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/3647-zero-array-transformation-iii) |
 ## Shortest Path
 |  |
 | ------- |
@@ -374,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2888-minimum-index-of-a-valid-split](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3321-type-of-triangle](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/3321-type-of-triangle) |
 | [3430-count-days-without-meetings](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/3430-count-days-without-meetings) |
+| [3647-zero-array-transformation-iii](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/3647-zero-array-transformation-iii) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Backtracking
 |  |
@@ -398,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2456-construct-smallest-number-from-di-string](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2681-put-marbles-in-bags](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/2681-put-marbles-in-bags) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3647-zero-array-transformation-iii](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/3647-zero-array-transformation-iii) |
 ## Memoization
 |  |
 | ------- |
@@ -433,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2915-count-of-interesting-subarrays](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/2915-count-of-interesting-subarrays) |
 | [3639-zero-array-transformation-i](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/3643-zero-array-transformation-ii) |
+| [3647-zero-array-transformation-iii](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/3647-zero-array-transformation-iii) |
 ## Two Pointers
 |  |
 | ------- |
