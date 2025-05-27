@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2262-solving-questions-with-brainpower](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/2262-solving-questions-with-brainpower) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0820-find-eventual-safe-states) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/2564-most-profitable-path-in-a-tree) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0210-course-schedule-ii) |
 | [0820-find-eventual-safe-states](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0820-find-eventual-safe-states) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Hash Table
 |  |
@@ -242,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1500-count-largest-group](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/1500-count-largest-group) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2107-find-unique-binary-string](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/2107-find-unique-binary-string) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2448-count-number-of-bad-pairs](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/2448-count-number-of-bad-pairs) |
@@ -292,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2448-count-number-of-bad-pairs](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/2448-count-number-of-bad-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -417,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0070-climbing-stairs) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/1986-largest-color-value-in-a-directed-graph) |
 ## Tree
 |  |
 | ------- |
