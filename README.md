@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0210-course-schedule-ii) |
+| [0386-lexicographical-numbers](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0386-lexicographical-numbers) |
 | [0733-flood-fill](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0801-is-graph-bipartite) |
@@ -591,4 +592,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/2292-counting-words-with-a-given-prefix) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
