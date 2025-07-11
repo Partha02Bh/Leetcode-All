@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2448-count-number-of-bad-pairs](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2479-meeting-rooms-iii](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/2479-meeting-rooms-iii) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2448-count-number-of-bad-pairs](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2479-meeting-rooms-iii](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/2479-meeting-rooms-iii) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -351,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/2048-build-array-from-permutation) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2479-meeting-rooms-iii](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/2479-meeting-rooms-iii) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/3447-clear-digits) |
@@ -379,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-path-with-minimum-effort](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/1753-path-with-minimum-effort) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2479-meeting-rooms-iii](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/2479-meeting-rooms-iii) |
 | [2681-put-marbles-in-bags](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/2681-put-marbles-in-bags) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -444,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2479-meeting-rooms-iii](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/2479-meeting-rooms-iii) |
 | [2681-put-marbles-in-bags](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/2681-put-marbles-in-bags) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/2888-minimum-index-of-a-valid-split) |
