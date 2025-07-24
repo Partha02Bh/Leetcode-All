@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0130-surrounded-regions) |
+| [0189-rotate-array](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0213-house-robber-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0287-find-the-duplicate-number) |
@@ -409,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0189-rotate-array) |
 | [0368-largest-divisible-subset](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0368-largest-divisible-subset) |
 | [0797-rabbits-in-forest](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0797-rabbits-in-forest) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -550,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0160-intersection-of-two-linked-lists) |
+| [0189-rotate-array](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0455-assign-cookies) |
 | [0768-partition-labels](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0768-partition-labels) |
