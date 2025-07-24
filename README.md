@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0213-house-robber-ii) |
+| [0283-move-zeroes](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0368-largest-divisible-subset) |
@@ -553,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0455-assign-cookies) |
 | [0768-partition-labels](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0768-partition-labels) |
