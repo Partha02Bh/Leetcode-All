@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0213-house-robber-ii) |
+| [0268-missing-number](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0322-coin-change) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0160-intersection-of-two-linked-lists) |
+| [0268-missing-number](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0268-missing-number) |
 | [0594-longest-harmonious-subsequence](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0594-longest-harmonious-subsequence) |
 | [0768-partition-labels](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0797-rabbits-in-forest) |
@@ -367,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0287-find-the-duplicate-number) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -412,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0368-largest-divisible-subset) |
 | [0797-rabbits-in-forest](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0797-rabbits-in-forest) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -446,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0075-sort-colors) |
+| [0268-missing-number](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0368-largest-divisible-subset) |
 | [0455-assign-cookies](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0455-assign-cookies) |
 | [0594-longest-harmonious-subsequence](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0594-longest-harmonious-subsequence) |
@@ -579,6 +584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0287-find-the-duplicate-number) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/3307-find-the-maximum-sum-of-node-values) |
