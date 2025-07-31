@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0485-max-consecutive-ones) |
 | [0518-coin-change-ii](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0542-01-matrix) |
+| [0560-subarray-sum-equals-k](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0594-longest-harmonious-subsequence) |
 | [0733-flood-fill](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0733-flood-fill) |
 | [0797-rabbits-in-forest](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0797-rabbits-in-forest) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0268-missing-number) |
+| [0560-subarray-sum-equals-k](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0594-longest-harmonious-subsequence) |
 | [0768-partition-labels](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0797-rabbits-in-forest) |
@@ -557,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0560-subarray-sum-equals-k) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2249-count-the-hidden-sequences](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/2249-count-the-hidden-sequences) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/2394-count-subarrays-with-score-less-than-k) |
