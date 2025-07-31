@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0039-combination-sum](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0040-combination-sum-ii) |
@@ -462,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0169-majority-element) |
@@ -571,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0042-trapping-rain-water) |
