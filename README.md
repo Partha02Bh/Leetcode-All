@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0733-flood-fill) |
 | [0797-rabbits-in-forest](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0797-rabbits-in-forest) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0945-snakes-and-ladders](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0945-snakes-and-ladders) |
 | [0967-minimum-falling-path-sum](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/1036-rotting-oranges) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0806-domino-and-tromino-tiling](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0806-domino-and-tromino-tiling) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0967-minimum-falling-path-sum](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0967-minimum-falling-path-sum) |
 | [1170-shortest-common-supersequence](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/1170-shortest-common-supersequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -603,6 +605,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0287-find-the-duplicate-number) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/3307-find-the-maximum-sum-of-node-values) |
