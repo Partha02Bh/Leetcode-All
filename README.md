@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0797-rabbits-in-forest) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0934-bitwise-ors-of-subarrays) |
+| [0940-fruit-into-baskets](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0940-fruit-into-baskets) |
 | [0945-snakes-and-ladders](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0945-snakes-and-ladders) |
 | [0967-minimum-falling-path-sum](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/1036-rotting-oranges) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0797-rabbits-in-forest) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [0940-fruit-into-baskets](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0940-fruit-into-baskets) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -609,6 +611,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0594-longest-harmonious-subsequence) |
+| [0940-fruit-into-baskets](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0940-fruit-into-baskets) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
