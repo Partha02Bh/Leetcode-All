@@ -295,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0594-longest-harmonious-subsequence) |
 | [0768-partition-labels](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0797-rabbits-in-forest) |
+| [0900-reordered-power-of-2](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0900-reordered-power-of-2) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0940-fruit-into-baskets](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0940-fruit-into-baskets) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -373,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0169-majority-element) |
 | [0594-longest-harmonious-subsequence](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0594-longest-harmonious-subsequence) |
+| [0900-reordered-power-of-2](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0900-reordered-power-of-2) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/1986-largest-color-value-in-a-directed-graph) |
@@ -456,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0368-largest-divisible-subset) |
 | [0797-rabbits-in-forest](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0826-soup-servings) |
+| [0900-reordered-power-of-2](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0900-reordered-power-of-2) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1500-count-largest-group](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/1500-count-largest-group) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
@@ -496,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0368-largest-divisible-subset) |
 | [0455-assign-cookies](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0455-assign-cookies) |
 | [0594-longest-harmonious-subsequence](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0594-longest-harmonious-subsequence) |
+| [0900-reordered-power-of-2](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0900-reordered-power-of-2) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -665,6 +669,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0900-reordered-power-of-2](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0900-reordered-power-of-2) |
 | [1656-count-good-triplets](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2998-count-symmetric-integers](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/2998-count-symmetric-integers) |
