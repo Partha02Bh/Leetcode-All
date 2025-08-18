@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0594-longest-harmonious-subsequence) |
+| [0679-24-game](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0679-24-game) |
 | [0733-flood-fill](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0733-flood-fill) |
 | [0792-binary-search](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0792-binary-search) |
 | [0797-rabbits-in-forest](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0797-rabbits-in-forest) |
@@ -460,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0368-largest-divisible-subset) |
+| [0679-24-game](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0679-24-game) |
 | [0797-rabbits-in-forest](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0867-new-21-game) |
@@ -532,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0046-permutations) |
 | [0131-palindrome-partitioning](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0131-palindrome-partitioning) |
+| [0679-24-game](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0679-24-game) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2107-find-unique-binary-string](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/2107-find-unique-binary-string) |
