@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
+| [3748-sort-matrix-by-diagonals](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/3748-sort-matrix-by-diagonals) |
 | [3790-fruits-into-baskets-ii](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/3790-fruits-into-baskets-ii) |
 ## Breadth-First Search
 |  |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-path-with-minimum-effort](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/1753-path-with-minimum-effort) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3748-sort-matrix-by-diagonals](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/3748-sort-matrix-by-diagonals) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -533,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3430-count-days-without-meetings](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/3430-count-days-without-meetings) |
 | [3647-zero-array-transformation-iii](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/3647-zero-array-transformation-iii) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
+| [3748-sort-matrix-by-diagonals](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/3748-sort-matrix-by-diagonals) |
 ## Backtracking
 |  |
 | ------- |
