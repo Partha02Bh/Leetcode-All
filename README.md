@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0102-binary-tree-level-order-traversal) |
 | [0130-surrounded-regions](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0207-course-schedule) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0100-same-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0130-surrounded-regions](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0207-course-schedule) |
@@ -589,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0102-binary-tree-level-order-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0124-binary-tree-maximum-path-sum) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -605,6 +608,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0102-binary-tree-level-order-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0124-binary-tree-maximum-path-sum) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/1093-recover-a-tree-from-preorder-traversal) |
