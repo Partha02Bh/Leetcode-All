@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0042-trapping-rain-water) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0064-minimum-path-sum) |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0160-intersection-of-two-linked-lists) |
