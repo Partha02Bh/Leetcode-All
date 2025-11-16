@@ -393,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3447-clear-digits](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/Partha02Bh/Leetcode-All/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Partha02Bh/Leetcode-All/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3617-find-the-original-typed-string-i](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/3617-find-the-original-typed-string-i) |
@@ -707,6 +708,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2626-count-the-number-of-good-subarrays](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/Partha02Bh/Leetcode-All/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3483-alternating-groups-ii](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/3483-alternating-groups-ii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Bit Manipulation
@@ -741,6 +743,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3201-distribute-candies-among-children-ii](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/3201-distribute-candies-among-children-ii) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/Partha02Bh/Leetcode-All/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Divide and Conquer
 |  |
