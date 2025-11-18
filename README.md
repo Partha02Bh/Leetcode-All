@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0594-longest-harmonious-subsequence) |
 | [0679-24-game](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0679-24-game) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/Partha02Bh/Leetcode-All/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0733-flood-fill](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0733-flood-fill) |
 | [0792-binary-search](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0792-binary-search) |
 | [0797-rabbits-in-forest](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0797-rabbits-in-forest) |
