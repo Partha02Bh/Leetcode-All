@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3483-alternating-groups-ii](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/3483-alternating-groups-ii) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [3623-count-number-of-trapezoids-i](https://github.com/Partha02Bh/Leetcode-All/tree/master/3623-count-number-of-trapezoids-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3639-zero-array-transformation-i](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/3643-zero-array-transformation-ii) |
@@ -374,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3455-minimum-length-of-string-after-operations](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [3623-count-number-of-trapezoids-i](https://github.com/Partha02Bh/Leetcode-All/tree/master/3623-count-number-of-trapezoids-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -545,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3321-type-of-triangle](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/3321-type-of-triangle) |
+| [3623-count-number-of-trapezoids-i](https://github.com/Partha02Bh/Leetcode-All/tree/master/3623-count-number-of-trapezoids-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/3637-count-number-of-balanced-permutations) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
@@ -870,4 +873,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3623-count-number-of-trapezoids-i](https://github.com/Partha02Bh/Leetcode-All/tree/master/3623-count-number-of-trapezoids-i) |
 <!---LeetCode Topics End-->
