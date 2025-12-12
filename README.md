@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3429-special-array-i](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/3429-special-array-i) |
 | [3430-count-days-without-meetings](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/3430-count-days-without-meetings) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Partha02Bh/Leetcode-All/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3433-count-mentions-per-user](https://github.com/Partha02Bh/Leetcode-All/tree/master/3433-count-mentions-per-user) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3483-alternating-groups-ii](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/3483-alternating-groups-ii) |
 | [3531-count-covered-buildings](https://github.com/Partha02Bh/Leetcode-All/tree/master/3531-count-covered-buildings) |
@@ -466,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Partha02Bh/Leetcode-All/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2479-meeting-rooms-iii](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/2479-meeting-rooms-iii) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3433-count-mentions-per-user](https://github.com/Partha02Bh/Leetcode-All/tree/master/3433-count-mentions-per-user) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/3447-clear-digits) |
 | [3790-fruits-into-baskets-ii](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/3790-fruits-into-baskets-ii) |
@@ -563,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3321-type-of-triangle](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/3321-type-of-triangle) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Partha02Bh/Leetcode-All/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3433-count-mentions-per-user](https://github.com/Partha02Bh/Leetcode-All/tree/master/3433-count-mentions-per-user) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Partha02Bh/Leetcode-All/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Partha02Bh/Leetcode-All/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/Partha02Bh/Leetcode-All/tree/master/3625-count-number-of-trapezoids-ii) |
@@ -618,6 +621,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3321-type-of-triangle](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/3321-type-of-triangle) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3430-count-days-without-meetings](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/3430-count-days-without-meetings) |
+| [3433-count-mentions-per-user](https://github.com/Partha02Bh/Leetcode-All/tree/master/3433-count-mentions-per-user) |
 | [3531-count-covered-buildings](https://github.com/Partha02Bh/Leetcode-All/tree/master/3531-count-covered-buildings) |
 | [3647-zero-array-transformation-iii](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/3647-zero-array-transformation-iii) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
