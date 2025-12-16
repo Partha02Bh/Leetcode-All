@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3483-alternating-groups-ii](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/3483-alternating-groups-ii) |
 | [3531-count-covered-buildings](https://github.com/Partha02Bh/Leetcode-All/tree/master/3531-count-covered-buildings) |
+| [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Partha02Bh/Leetcode-All/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Partha02Bh/Leetcode-All/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Partha02Bh/Leetcode-All/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3583-count-special-triplets](https://github.com/Partha02Bh/Leetcode-All/tree/master/3583-count-special-triplets) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-path-with-minimum-effort](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/1753-path-with-minimum-effort) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/Partha02Bh/Leetcode-All/tree/master/2872-maximum-number-of-k-divisible-components) |
+| [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Partha02Bh/Leetcode-All/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Dynamic Programming
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Partha02Bh/Leetcode-All/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Partha02Bh/Leetcode-All/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/3618-find-the-original-typed-string-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -698,6 +701,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2564-most-profitable-path-in-a-tree](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/Partha02Bh/Leetcode-All/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Partha02Bh/Leetcode-All/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Design
