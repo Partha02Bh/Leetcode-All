@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3639-zero-array-transformation-i](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/3643-zero-array-transformation-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/3647-zero-array-transformation-iii) |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Partha02Bh/Leetcode-All/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
@@ -752,6 +753,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3639-zero-array-transformation-i](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/3643-zero-array-transformation-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/3647-zero-array-transformation-iii) |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Partha02Bh/Leetcode-All/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Two Pointers
 |  |
 | ------- |
@@ -795,6 +797,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-alternating-groups-ii](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/3483-alternating-groups-ii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Partha02Bh/Leetcode-All/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Partha02Bh/Leetcode-All/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Bit Manipulation
 |  |
 | ------- |
