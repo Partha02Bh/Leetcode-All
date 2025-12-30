@@ -371,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0594-longest-harmonious-subsequence) |
+| [0756-pyramid-transition-matrix](https://github.com/Partha02Bh/Leetcode-All/tree/master/0756-pyramid-transition-matrix) |
 | [0768-partition-labels](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0797-rabbits-in-forest) |
 | [0900-reordered-power-of-2](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0900-reordered-power-of-2) |
@@ -425,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/Partha02Bh/Leetcode-All/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0583-delete-operation-for-two-strings) |
+| [0756-pyramid-transition-matrix](https://github.com/Partha02Bh/Leetcode-All/tree/master/0756-pyramid-transition-matrix) |
 | [0768-partition-labels](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0768-partition-labels) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Partha02Bh/Leetcode-All/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Partha02Bh/Leetcode-All/tree/master/0955-delete-columns-to-make-sorted-ii) |
@@ -674,6 +676,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0046-permutations) |
 | [0131-palindrome-partitioning](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0131-palindrome-partitioning) |
 | [0679-24-game](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0679-24-game) |
+| [0756-pyramid-transition-matrix](https://github.com/Partha02Bh/Leetcode-All/tree/master/0756-pyramid-transition-matrix) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2107-find-unique-binary-string](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/2107-find-unique-binary-string) |
@@ -832,6 +835,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0342-power-of-four) |
+| [0756-pyramid-transition-matrix](https://github.com/Partha02Bh/Leetcode-All/tree/master/0756-pyramid-transition-matrix) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Partha02Bh/Leetcode-All/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Partha02Bh/Leetcode-All/tree/master/1930-unique-length-3-palindromic-subsequences) |
