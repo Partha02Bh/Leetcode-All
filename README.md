@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-snakes-and-ladders](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/1073-number-of-enclaves) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Partha02Bh/Leetcode-All/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0820-find-eventual-safe-states) |
 | [1073-number-of-enclaves](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/1073-number-of-enclaves) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Partha02Bh/Leetcode-All/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/1442-number-of-operations-to-make-network-connected) |
@@ -738,6 +740,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0124-binary-tree-maximum-path-sum) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Partha02Bh/Leetcode-All/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -758,6 +761,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0124-binary-tree-maximum-path-sum) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Partha02Bh/Leetcode-All/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Database
