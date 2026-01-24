@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-path-with-minimum-effort](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/1753-path-with-minimum-effort) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Partha02Bh/Leetcode-All/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-largest-magic-square](https://github.com/Partha02Bh/Leetcode-All/tree/master/1895-largest-magic-square) |
 | [1917-maximum-average-pass-ratio](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/1917-maximum-average-pass-ratio) |
@@ -675,6 +676,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1262-greatest-sum-divisible-by-three](https://github.com/Partha02Bh/Leetcode-All/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Partha02Bh/Leetcode-All/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2054-two-best-non-overlapping-events](https://github.com/Partha02Bh/Leetcode-All/tree/master/2054-two-best-non-overlapping-events) |
 | [2092-find-all-people-with-secret](https://github.com/Partha02Bh/Leetcode-All/tree/master/2092-find-all-people-with-secret) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Partha02Bh/Leetcode-All/tree/master/2141-maximum-running-time-of-n-computers) |
@@ -731,6 +733,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1262-greatest-sum-divisible-by-three](https://github.com/Partha02Bh/Leetcode-All/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1448-maximum-69-number](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/1448-maximum-69-number) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Partha02Bh/Leetcode-All/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1917-maximum-average-pass-ratio](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/1917-maximum-average-pass-ratio) |
 | [1975-maximum-matrix-sum](https://github.com/Partha02Bh/Leetcode-All/tree/master/1975-maximum-matrix-sum) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Partha02Bh/Leetcode-All/tree/master/2141-maximum-running-time-of-n-computers) |
@@ -847,6 +850,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0768-partition-labels) |
 | [0908-middle-of-the-linked-list](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0908-middle-of-the-linked-list) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Partha02Bh/Leetcode-All/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/2699-count-the-number-of-fair-pairs) |
