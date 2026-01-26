@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1073-number-of-enclaves](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1200-minimum-absolute-difference](https://github.com/Partha02Bh/Leetcode-All/tree/master/1200-minimum-absolute-difference) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Partha02Bh/Leetcode-All/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Partha02Bh/Leetcode-All/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
@@ -674,6 +675,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0594-longest-harmonious-subsequence) |
 | [0759-set-intersection-size-at-least-two](https://github.com/Partha02Bh/Leetcode-All/tree/master/0759-set-intersection-size-at-least-two) |
 | [0900-reordered-power-of-2](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0900-reordered-power-of-2) |
+| [1200-minimum-absolute-difference](https://github.com/Partha02Bh/Leetcode-All/tree/master/1200-minimum-absolute-difference) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Partha02Bh/Leetcode-All/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
