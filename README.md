@@ -333,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/Partha02Bh/Leetcode-All/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/1986-largest-color-value-in-a-directed-graph) |
@@ -479,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Partha02Bh/Leetcode-All/tree/master/1636-number-of-substrings-with-only-1s) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/Partha02Bh/Leetcode-All/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Partha02Bh/Leetcode-All/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -669,6 +671,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0042-trapping-rain-water) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/Partha02Bh/Leetcode-All/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2211-count-collisions-on-a-road](https://github.com/Partha02Bh/Leetcode-All/tree/master/2211-count-collisions-on-a-road) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/2456-construct-smallest-number-from-di-string) |
