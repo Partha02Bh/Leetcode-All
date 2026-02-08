@@ -265,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0100-same-tree) |
+| [0110-balanced-binary-tree](https://github.com/Partha02Bh/Leetcode-All/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0130-surrounded-regions](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0207-course-schedule) |
@@ -792,6 +793,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0110-balanced-binary-tree](https://github.com/Partha02Bh/Leetcode-All/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Partha02Bh/Leetcode-All/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -814,6 +816,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0110-balanced-binary-tree](https://github.com/Partha02Bh/Leetcode-All/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Partha02Bh/Leetcode-All/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/1093-recover-a-tree-from-preorder-traversal) |
