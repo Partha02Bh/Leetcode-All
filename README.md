@@ -321,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0583-delete-operation-for-two-strings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Partha02Bh/Leetcode-All/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0799-champagne-tower](https://github.com/Partha02Bh/Leetcode-All/tree/master/0799-champagne-tower) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0806-domino-and-tromino-tiling](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0806-domino-and-tromino-tiling) |
 | [0826-soup-servings](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0826-soup-servings) |
