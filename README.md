@@ -470,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0038-count-and-say](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0038-count-and-say) |
+| [0067-add-binary](https://github.com/Partha02Bh/Leetcode-All/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0131-palindrome-partitioning) |
@@ -547,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Partha02Bh/Leetcode-All/tree/master/0067-add-binary) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/2048-build-array-from-permutation) |
 | [2211-count-collisions-on-a-road](https://github.com/Partha02Bh/Leetcode-All/tree/master/2211-count-collisions-on-a-road) |
@@ -630,6 +632,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0062-unique-paths) |
+| [0067-add-binary](https://github.com/Partha02Bh/Leetcode-All/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0268-missing-number) |
@@ -925,6 +928,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Partha02Bh/Leetcode-All/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0287-find-the-duplicate-number) |
