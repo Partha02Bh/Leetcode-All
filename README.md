@@ -425,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Partha02Bh/Leetcode-All/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1500-count-largest-group](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/1500-count-largest-group) |
 | [1590-make-sum-divisible-by-p](https://github.com/Partha02Bh/Leetcode-All/tree/master/1590-make-sum-divisible-by-p) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -490,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1170-shortest-common-supersequence](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/1170-shortest-common-supersequence) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Partha02Bh/Leetcode-All/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Partha02Bh/Leetcode-All/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Partha02Bh/Leetcode-All/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -946,6 +948,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Partha02Bh/Leetcode-All/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Partha02Bh/Leetcode-All/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Partha02Bh/Leetcode-All/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Partha02Bh/Leetcode-All/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
@@ -1067,6 +1070,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Function
 |  |
 | ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Partha02Bh/Leetcode-All/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/2079-delete-duplicate-folders-in-system) |
 ## Probability and Statistics
 |  |
@@ -1101,4 +1105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1382-balance-a-binary-search-tree](https://github.com/Partha02Bh/Leetcode-All/tree/master/1382-balance-a-binary-search-tree) |
+## Rolling Hash
+|  |
+| ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Partha02Bh/Leetcode-All/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 <!---LeetCode Topics End-->
