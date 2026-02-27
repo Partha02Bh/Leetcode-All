@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2564-most-profitable-path-in-a-tree](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/2564-most-profitable-path-in-a-tree) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/Partha02Bh/Leetcode-All/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Matrix
 |  |
 | ------- |
@@ -527,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3618-find-the-original-typed-string-ii](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/3618-find-the-original-typed-string-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/3637-count-number-of-balanced-permutations) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/Partha02Bh/Leetcode-All/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3713-longest-balanced-substring-i](https://github.com/Partha02Bh/Leetcode-All/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/Partha02Bh/Leetcode-All/tree/master/3714-longest-balanced-substring-ii) |
@@ -686,6 +688,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3625-count-number-of-trapezoids-ii](https://github.com/Partha02Bh/Leetcode-All/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/3637-count-number-of-balanced-permutations) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/Partha02Bh/Leetcode-All/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3830-find-closest-person](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/3830-find-closest-person) |
@@ -1039,6 +1042,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/2280-count-good-triplets-in-an-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Partha02Bh/Leetcode-All/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/Partha02Bh/Leetcode-All/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3790-fruits-into-baskets-ii](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/3790-fruits-into-baskets-ii) |
 ## Monotonic Stack
 |  |
@@ -1114,4 +1118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Partha02Bh/Leetcode-All/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Union-Find
+|  |
+| ------- |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/Partha02Bh/Leetcode-All/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 <!---LeetCode Topics End-->
