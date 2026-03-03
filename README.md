@@ -497,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Partha02Bh/Leetcode-All/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Partha02Bh/Leetcode-All/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Partha02Bh/Leetcode-All/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Partha02Bh/Leetcode-All/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Partha02Bh/Leetcode-All/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -560,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Partha02Bh/Leetcode-All/tree/master/0067-add-binary) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Partha02Bh/Leetcode-All/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/2048-build-array-from-permutation) |
 | [2211-count-collisions-on-a-road](https://github.com/Partha02Bh/Leetcode-All/tree/master/2211-count-collisions-on-a-road) |
@@ -1015,6 +1017,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0206-reverse-linked-list) |
 | [0326-power-of-three](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0342-power-of-four) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Partha02Bh/Leetcode-All/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2050-count-good-numbers](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/2050-count-good-numbers) |
 ## Linked List
 |  |
