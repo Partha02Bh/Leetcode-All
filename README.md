@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Partha02Bh/Leetcode-All/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Partha02Bh/Leetcode-All/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-largest-magic-square](https://github.com/Partha02Bh/Leetcode-All/tree/master/1895-largest-magic-square) |
 | [1917-maximum-average-pass-ratio](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/1917-maximum-average-pass-ratio) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Partha02Bh/Leetcode-All/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Partha02Bh/Leetcode-All/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1753-path-with-minimum-effort](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/1753-path-with-minimum-effort) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Partha02Bh/Leetcode-All/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-largest-magic-square](https://github.com/Partha02Bh/Leetcode-All/tree/master/1895-largest-magic-square) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Partha02Bh/Leetcode-All/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/Partha02Bh/Leetcode-All/tree/master/1975-maximum-matrix-sum) |
@@ -630,6 +632,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-network-delay-time](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1753-path-with-minimum-effort](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/1753-path-with-minimum-effort) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Partha02Bh/Leetcode-All/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1917-maximum-average-pass-ratio](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/1917-maximum-average-pass-ratio) |
 | [2054-two-best-non-overlapping-events](https://github.com/Partha02Bh/Leetcode-All/tree/master/2054-two-best-non-overlapping-events) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -684,6 +687,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1622-fancy-sequence](https://github.com/Partha02Bh/Leetcode-All/tree/master/1622-fancy-sequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Partha02Bh/Leetcode-All/tree/master/1636-number-of-substrings-with-only-1s) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Partha02Bh/Leetcode-All/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1925-count-square-sum-triples](https://github.com/Partha02Bh/Leetcode-All/tree/master/1925-count-square-sum-triples) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/2050-count-good-numbers) |
@@ -747,6 +751,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Partha02Bh/Leetcode-All/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Partha02Bh/Leetcode-All/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Partha02Bh/Leetcode-All/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2054-two-best-non-overlapping-events](https://github.com/Partha02Bh/Leetcode-All/tree/master/2054-two-best-non-overlapping-events) |
 | [2092-find-all-people-with-secret](https://github.com/Partha02Bh/Leetcode-All/tree/master/2092-find-all-people-with-secret) |
@@ -901,6 +906,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Partha02Bh/Leetcode-All/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1590-make-sum-divisible-by-p](https://github.com/Partha02Bh/Leetcode-All/tree/master/1590-make-sum-divisible-by-p) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Partha02Bh/Leetcode-All/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-largest-magic-square](https://github.com/Partha02Bh/Leetcode-All/tree/master/1895-largest-magic-square) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Partha02Bh/Leetcode-All/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
