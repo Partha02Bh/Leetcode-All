@@ -479,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2626-count-the-number-of-good-subarrays](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2689-rearranging-fruits](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/2689-rearranging-fruits) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Partha02Bh/Leetcode-All/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2915-count-of-interesting-subarrays](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/2915-count-of-interesting-subarrays) |
@@ -551,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2573-find-the-string-with-lcp](https://github.com/Partha02Bh/Leetcode-All/tree/master/2573-find-the-string-with-lcp) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Partha02Bh/Leetcode-All/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Partha02Bh/Leetcode-All/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -792,6 +794,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2681-put-marbles-in-bags](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/2681-put-marbles-in-bags) |
 | [2689-rearranging-fruits](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/2689-rearranging-fruits) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Partha02Bh/Leetcode-All/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Partha02Bh/Leetcode-All/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Partha02Bh/Leetcode-All/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
