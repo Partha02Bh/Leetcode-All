@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Partha02Bh/Leetcode-All/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/Partha02Bh/Leetcode-All/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3719-longest-balanced-subarray-i](https://github.com/Partha02Bh/Leetcode-All/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Partha02Bh/Leetcode-All/tree/master/3721-longest-balanced-subarray-ii) |
@@ -403,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/3637-count-number-of-balanced-permutations) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Partha02Bh/Leetcode-All/tree/master/3651-minimum-cost-path-with-teleportations) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/Partha02Bh/Leetcode-All/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Union Find
 |  |
 | ------- |
@@ -657,6 +659,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3454-separate-squares-ii](https://github.com/Partha02Bh/Leetcode-All/tree/master/3454-separate-squares-ii) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Partha02Bh/Leetcode-All/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3643-zero-array-transformation-ii](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/3643-zero-array-transformation-ii) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/Partha02Bh/Leetcode-All/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3790-fruits-into-baskets-ii](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/3790-fruits-into-baskets-ii) |
 ## Heap (Priority Queue)
 |  |
@@ -822,6 +825,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3634-minimum-removals-to-balance-array](https://github.com/Partha02Bh/Leetcode-All/tree/master/3634-minimum-removals-to-balance-array) |
 | [3647-zero-array-transformation-iii](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/3647-zero-array-transformation-iii) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/Partha02Bh/Leetcode-All/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/3748-sort-matrix-by-diagonals) |
 ## Backtracking
 |  |
