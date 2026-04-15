@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2479-meeting-rooms-iii](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/2479-meeting-rooms-iii) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Partha02Bh/Leetcode-All/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2573-find-the-string-with-lcp](https://github.com/Partha02Bh/Leetcode-All/tree/master/2573-find-the-string-with-lcp) |
@@ -571,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Partha02Bh/Leetcode-All/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2573-find-the-string-with-lcp](https://github.com/Partha02Bh/Leetcode-All/tree/master/2573-find-the-string-with-lcp) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Partha02Bh/Leetcode-All/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
