@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3623-count-number-of-trapezoids-i](https://github.com/Partha02Bh/Leetcode-All/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/Partha02Bh/Leetcode-All/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Partha02Bh/Leetcode-All/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Partha02Bh/Leetcode-All/tree/master/3634-minimum-removals-to-balance-array) |
 | [3639-zero-array-transformation-i](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/3643-zero-array-transformation-ii) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1970-last-day-where-you-can-still-cross](https://github.com/Partha02Bh/Leetcode-All/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/Partha02Bh/Leetcode-All/tree/master/2092-find-all-people-with-secret) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/2564-most-profitable-path-in-a-tree) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Partha02Bh/Leetcode-All/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Partha02Bh/Leetcode-All/tree/master/3666-minimum-operations-to-equalize-binary-string) |
@@ -546,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3623-count-number-of-trapezoids-i](https://github.com/Partha02Bh/Leetcode-All/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/Partha02Bh/Leetcode-All/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Partha02Bh/Leetcode-All/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3713-longest-balanced-substring-i](https://github.com/Partha02Bh/Leetcode-All/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/Partha02Bh/Leetcode-All/tree/master/3714-longest-balanced-substring-ii) |
@@ -812,6 +815,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3623-count-number-of-trapezoids-i](https://github.com/Partha02Bh/Leetcode-All/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/Partha02Bh/Leetcode-All/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Partha02Bh/Leetcode-All/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/3637-count-number-of-balanced-permutations) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Partha02Bh/Leetcode-All/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
@@ -1220,6 +1224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Partha02Bh/Leetcode-All/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Partha02Bh/Leetcode-All/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Queue
 |  |
 | ------- |
