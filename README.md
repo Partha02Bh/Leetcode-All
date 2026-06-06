@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-separate-the-digits-in-an-array](https://github.com/Partha02Bh/Leetcode-All/tree/master/2553-separate-the-digits-in-an-array) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2573-find-the-string-with-lcp](https://github.com/Partha02Bh/Leetcode-All/tree/master/2573-find-the-string-with-lcp) |
+| [2574-left-and-right-sum-differences](https://github.com/Partha02Bh/Leetcode-All/tree/master/2574-left-and-right-sum-differences) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2615-sum-of-distances](https://github.com/Partha02Bh/Leetcode-All/tree/master/2615-sum-of-distances) |
 | [2625-increment-submatrices-by-one](https://github.com/Partha02Bh/Leetcode-All/tree/master/2625-increment-submatrices-by-one) |
@@ -1100,6 +1101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2249-count-the-hidden-sequences](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/2249-count-the-hidden-sequences) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2574-left-and-right-sum-differences](https://github.com/Partha02Bh/Leetcode-All/tree/master/2574-left-and-right-sum-differences) |
 | [2615-sum-of-distances](https://github.com/Partha02Bh/Leetcode-All/tree/master/2615-sum-of-distances) |
 | [2625-increment-submatrices-by-one](https://github.com/Partha02Bh/Leetcode-All/tree/master/2625-increment-submatrices-by-one) |
 | [2915-count-of-interesting-subarrays](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/2915-count-of-interesting-subarrays) |
