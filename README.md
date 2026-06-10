@@ -260,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Partha02Bh/Leetcode-All/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Partha02Bh/Leetcode-All/tree/master/3689-maximum-total-subarray-value-i) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/Partha02Bh/Leetcode-All/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Partha02Bh/Leetcode-All/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Partha02Bh/Leetcode-All/tree/master/3721-longest-balanced-subarray-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Partha02Bh/Leetcode-All/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -802,6 +803,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/3647-zero-array-transformation-iii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Partha02Bh/Leetcode-All/tree/master/3650-minimum-cost-path-with-edge-reversals) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/Partha02Bh/Leetcode-All/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Shortest Path
 |  |
 | ------- |
@@ -1033,6 +1035,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Partha02Bh/Leetcode-All/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/3647-zero-array-transformation-iii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Partha02Bh/Leetcode-All/tree/master/3689-maximum-total-subarray-value-i) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/Partha02Bh/Leetcode-All/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Memoization
 |  |
 | ------- |
@@ -1289,6 +1292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2280-count-good-triplets-in-an-array](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/2280-count-good-triplets-in-an-array) |
 | [3161-block-placement-queries](https://github.com/Partha02Bh/Leetcode-All/tree/master/3161-block-placement-queries) |
 | [3454-separate-squares-ii](https://github.com/Partha02Bh/Leetcode-All/tree/master/3454-separate-squares-ii) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/Partha02Bh/Leetcode-All/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Partha02Bh/Leetcode-All/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Partha02Bh/Leetcode-All/tree/master/3721-longest-balanced-subarray-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/3790-fruits-into-baskets-ii) |
