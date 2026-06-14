@@ -272,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3748-sort-matrix-by-diagonals](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/3748-sort-matrix-by-diagonals) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Partha02Bh/Leetcode-All/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3790-fruits-into-baskets-ii](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/3790-fruits-into-baskets-ii) |
+| [3838-weighted-word-mapping](https://github.com/Partha02Bh/Leetcode-All/tree/master/3838-weighted-word-mapping) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -692,6 +693,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3713-longest-balanced-substring-i](https://github.com/Partha02Bh/Leetcode-All/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/Partha02Bh/Leetcode-All/tree/master/3714-longest-balanced-substring-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3838-weighted-word-mapping](https://github.com/Partha02Bh/Leetcode-All/tree/master/3838-weighted-word-mapping) |
 ## Counting
 |  |
 | ------- |
@@ -742,6 +744,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Partha02Bh/Leetcode-All/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Partha02Bh/Leetcode-All/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/3790-fruits-into-baskets-ii) |
+| [3838-weighted-word-mapping](https://github.com/Partha02Bh/Leetcode-All/tree/master/3838-weighted-word-mapping) |
 ## Binary Search
 |  |
 | ------- |
