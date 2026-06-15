@@ -1168,6 +1168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1861-rotating-the-box](https://github.com/Partha02Bh/Leetcode-All/tree/master/1861-rotating-the-box) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Partha02Bh/Leetcode-All/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Partha02Bh/Leetcode-All/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Partha02Bh/Leetcode-All/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Partha02Bh/Leetcode-All/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -1293,6 +1294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0908-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Partha02Bh/Leetcode-All/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Partha02Bh/Leetcode-All/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Partha02Bh/Leetcode-All/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Binary Indexed Tree
