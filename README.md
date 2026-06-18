@@ -847,6 +847,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-new-21-game](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0900-reordered-power-of-2) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Partha02Bh/Leetcode-All/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1344-angle-between-hands-of-a-clock](https://github.com/Partha02Bh/Leetcode-All/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1390-four-divisors](https://github.com/Partha02Bh/Leetcode-All/tree/master/1390-four-divisors) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
