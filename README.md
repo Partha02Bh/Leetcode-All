@@ -563,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1345-jump-game-iv](https://github.com/Partha02Bh/Leetcode-All/tree/master/1345-jump-game-iv) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Partha02Bh/Leetcode-All/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Partha02Bh/Leetcode-All/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1500-count-largest-group](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/1500-count-largest-group) |
@@ -652,6 +653,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/Partha02Bh/Leetcode-All/tree/master/1189-maximum-number-of-balloons) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Partha02Bh/Leetcode-All/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Partha02Bh/Leetcode-All/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Partha02Bh/Leetcode-All/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -1225,6 +1227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0594-longest-harmonious-subsequence) |
 | [0867-new-21-game](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0867-new-21-game) |
 | [0940-fruit-into-baskets](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0940-fruit-into-baskets) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Partha02Bh/Leetcode-All/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1871-jump-game-vii](https://github.com/Partha02Bh/Leetcode-All/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Partha02Bh/Leetcode-All/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
