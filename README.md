@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Partha02Bh/Leetcode-All/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Partha02Bh/Leetcode-All/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Partha02Bh/Leetcode-All/tree/master/3312-sorted-gcd-pair-queries) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Partha02Bh/Leetcode-All/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Partha02Bh/Leetcode-All/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3321-type-of-triangle](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/3321-type-of-triangle) |
@@ -621,6 +622,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Partha02Bh/Leetcode-All/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Partha02Bh/Leetcode-All/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Partha02Bh/Leetcode-All/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Partha02Bh/Leetcode-All/tree/master/3312-sorted-gcd-pair-queries) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Partha02Bh/Leetcode-All/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -756,6 +758,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2448-count-number-of-bad-pairs](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/2448-count-number-of-bad-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2833-furthest-point-from-origin](https://github.com/Partha02Bh/Leetcode-All/tree/master/2833-furthest-point-from-origin) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Partha02Bh/Leetcode-All/tree/master/3312-sorted-gcd-pair-queries) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Partha02Bh/Leetcode-All/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
@@ -833,6 +836,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Partha02Bh/Leetcode-All/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3161-block-placement-queries](https://github.com/Partha02Bh/Leetcode-All/tree/master/3161-block-placement-queries) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Partha02Bh/Leetcode-All/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Partha02Bh/Leetcode-All/tree/master/3312-sorted-gcd-pair-queries) |
 | [3453-separate-squares-i](https://github.com/Partha02Bh/Leetcode-All/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/Partha02Bh/Leetcode-All/tree/master/3454-separate-squares-ii) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Partha02Bh/Leetcode-All/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
@@ -938,6 +942,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Partha02Bh/Leetcode-All/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Partha02Bh/Leetcode-All/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Partha02Bh/Leetcode-All/tree/master/3312-sorted-gcd-pair-queries) |
 | [3321-type-of-triangle](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/3321-type-of-triangle) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Partha02Bh/Leetcode-All/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Partha02Bh/Leetcode-All/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -1213,6 +1218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Partha02Bh/Leetcode-All/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Partha02Bh/Leetcode-All/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3225-maximum-score-from-grid-operations](https://github.com/Partha02Bh/Leetcode-All/tree/master/3225-maximum-score-from-grid-operations) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Partha02Bh/Leetcode-All/tree/master/3312-sorted-gcd-pair-queries) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Partha02Bh/Leetcode-All/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Partha02Bh/Leetcode-All/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Partha02Bh/Leetcode-All/tree/master/3546-equal-sum-grid-partition-i) |
@@ -1328,6 +1334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/3201-distribute-candies-among-children-ii) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Partha02Bh/Leetcode-All/tree/master/3312-sorted-gcd-pair-queries) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Partha02Bh/Leetcode-All/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/3637-count-number-of-balanced-permutations) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
@@ -1429,6 +1436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Partha02Bh/Leetcode-All/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Partha02Bh/Leetcode-All/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Partha02Bh/Leetcode-All/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Partha02Bh/Leetcode-All/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Partha02Bh/Leetcode-All/tree/master/3658-gcd-of-odd-and-even-sums) |
