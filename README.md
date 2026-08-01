@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0455-assign-cookies) |
 | [0474-ones-and-zeroes](https://github.com/Partha02Bh/Leetcode-All/tree/master/0474-ones-and-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/Partha02Bh/Leetcode-All/tree/master/0486-predict-the-winner) |
 | [0518-coin-change-ii](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0560-subarray-sum-equals-k) |
@@ -456,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/Partha02Bh/Leetcode-All/tree/master/0474-ones-and-zeroes) |
+| [0486-predict-the-winner](https://github.com/Partha02Bh/Leetcode-All/tree/master/0486-predict-the-winner) |
 | [0516-longest-palindromic-subsequence](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0542-01-matrix) |
@@ -916,6 +918,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0368-largest-divisible-subset) |
+| [0486-predict-the-winner](https://github.com/Partha02Bh/Leetcode-All/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Partha02Bh/Leetcode-All/tree/master/0628-maximum-product-of-three-numbers) |
 | [0679-24-game](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0679-24-game) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Partha02Bh/Leetcode-All/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -1414,6 +1417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0206-reverse-linked-list) |
 | [0326-power-of-three](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0342-power-of-four) |
+| [0486-predict-the-winner](https://github.com/Partha02Bh/Leetcode-All/tree/master/0486-predict-the-winner) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Partha02Bh/Leetcode-All/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2050-count-good-numbers](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/2050-count-good-numbers) |
 ## Linked List
@@ -1577,4 +1581,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/Partha02Bh/Leetcode-All/tree/master/1833-maximum-ice-cream-bars) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Partha02Bh/Leetcode-All/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Partha02Bh/Leetcode-All/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
