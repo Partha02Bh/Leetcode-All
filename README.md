@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0792-binary-search) |
 | [0797-rabbits-in-forest](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0797-rabbits-in-forest) |
 | [0874-walking-robot-simulation](https://github.com/Partha02Bh/Leetcode-All/tree/master/0874-walking-robot-simulation) |
+| [0877-stone-game](https://github.com/Partha02Bh/Leetcode-All/tree/master/0877-stone-game) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0940-fruit-into-baskets) |
@@ -469,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0806-domino-and-tromino-tiling](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0806-domino-and-tromino-tiling) |
 | [0826-soup-servings](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0867-new-21-game) |
+| [0877-stone-game](https://github.com/Partha02Bh/Leetcode-All/tree/master/0877-stone-game) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Partha02Bh/Leetcode-All/tree/master/0960-delete-columns-to-make-sorted-iii) |
@@ -926,6 +928,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0867-new-21-game) |
+| [0877-stone-game](https://github.com/Partha02Bh/Leetcode-All/tree/master/0877-stone-game) |
 | [0900-reordered-power-of-2](https://github.com/Partha02Bh/Leetcode-POTD/tree/master/0900-reordered-power-of-2) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Partha02Bh/Leetcode-All/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Partha02Bh/Leetcode-All/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -1585,4 +1588,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Partha02Bh/Leetcode-All/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Partha02Bh/Leetcode-All/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
